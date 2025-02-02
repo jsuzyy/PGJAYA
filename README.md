@@ -1,0 +1,1 @@
+The source code corresponds to the following paper: Yu, Kunjie, et al. "A performance-guided JAYA algorithm for parameters identification of photovoltaic cell and module." Applied energy 237 (2019): 241-257. DOI: https://doi.org/10.1016/j.apenergy.2019.01.008
